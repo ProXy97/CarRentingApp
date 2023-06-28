@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\bin\Debug\net6.0\CarRentingSystem.Data.Models.deps.json
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\bin\Debug\net6.0\CarRentingSystem.Data.Models.dll
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\bin\Debug\net6.0\CarRentingSystem.Data.Models.pdb
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\bin\Debug\net6.0\CarRentingSystem.Common.dll
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\bin\Debug\net6.0\CarRentingSystem.Common.pdb
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\CarRentingSystem.Data.Models.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\CarRentingSystem.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\CarRentingSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\CarRentingSystem.Data.Models.AssemblyInfo.cs
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\CarRentingSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\CarRentingSystem.Data.Models.csproj.CopyComplete
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\CarRentingSystem.Data.Models.dll
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\refint\CarRentingSystem.Data.Models.dll
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\CarRentingSystem.Data.Models.pdb
+C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Data.Models\obj\Debug\net6.0\ref\CarRentingSystem.Data.Models.dll
