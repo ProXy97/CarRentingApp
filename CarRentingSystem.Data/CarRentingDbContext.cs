@@ -24,6 +24,9 @@ namespace CarRentingSystem.Web.Data
             builder.ApplyConfiguration(new CargoEntityConfiguration());
             builder.ApplyConfiguration(new ExtraEntityConfiguration());
             builder.ApplyConfiguration(new ProtectionPlanEntityConfiguration());
+
+
+
             base.OnModelCreating(builder);
         }
     }

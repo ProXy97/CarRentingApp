@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Web.ViewModels\\CarRentingSystem.Web.ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Web.ViewModels\\CarRentingSystem.Web.ViewModels.csproj",
       "projectName": "CarRentingSystem.Web.ViewModels",
-      "projectPath": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Web.ViewModels\\CarRentingSystem.Web.ViewModels.csproj",
+      "projectPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Web.ViewModels\\CarRentingSystem.Web.ViewModels.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Web.ViewModels\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Web.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",

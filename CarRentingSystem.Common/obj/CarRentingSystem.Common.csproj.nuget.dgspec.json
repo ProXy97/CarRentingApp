@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Common\\CarRentingSystem.Common.csproj": {}
+    "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Common\\CarRentingSystem.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Common\\CarRentingSystem.Common.csproj": {
+    "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Common\\CarRentingSystem.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Common\\CarRentingSystem.Common.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Common\\CarRentingSystem.Common.csproj",
         "projectName": "CarRentingSystem.Common",
-        "projectPath": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Common\\CarRentingSystem.Common.csproj",
+        "projectPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Common\\CarRentingSystem.Common.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Common\\obj\\",
+        "outputPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",

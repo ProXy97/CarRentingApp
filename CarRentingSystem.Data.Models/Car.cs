@@ -1,5 +1,6 @@
 ﻿using CarRentingSystem.Data.Models.Enums;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using static CarRentingSystem.Common.EntityValidationConstants.Car;
 
 namespace CarRentingSystem.Data.Models
@@ -50,7 +51,13 @@ namespace CarRentingSystem.Data.Models
 
         [Required]
         public string Transmission { get; set; } = null!;
-    
+
+        [Required]
         public string Description { get; set; } = null!;
+
+        [ForeignKey(nameof(ProtectionPlan))]
+        public int? ProtectionPlanId { get; set; }
+
+        public ProtectionPlan? ProtectionPlan { get; set; }
     }
 }

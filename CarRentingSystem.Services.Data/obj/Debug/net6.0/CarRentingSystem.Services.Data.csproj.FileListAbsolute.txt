@@ -10,3 +10,15 @@ C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Services.Data\obj\Deb
 C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\refint\CarRentingSystem.Services.Data.dll
 C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\CarRentingSystem.Services.Data.pdb
 C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\ref\CarRentingSystem.Services.Data.dll
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\bin\Debug\net6.0\CarRentingSystem.Services.Data.deps.json
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\bin\Debug\net6.0\CarRentingSystem.Services.Data.dll
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\bin\Debug\net6.0\CarRentingSystem.Services.Data.pdb
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\CarRentingSystem.Services.Data.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\CarRentingSystem.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\CarRentingSystem.Services.Data.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\CarRentingSystem.Services.Data.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\CarRentingSystem.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\CarRentingSystem.Services.Data.dll
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\refint\CarRentingSystem.Services.Data.dll
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\CarRentingSystem.Services.Data.pdb
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Services.Data\obj\Debug\net6.0\ref\CarRentingSystem.Services.Data.dll

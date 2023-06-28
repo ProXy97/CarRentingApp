@@ -2261,11 +2261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Data\\CarRentingSystem.Data.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Data\\CarRentingSystem.Data.csproj",
       "projectName": "CarRentingSystem.Data",
-      "projectPath": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Data\\CarRentingSystem.Data.csproj",
+      "projectPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Data\\CarRentingSystem.Data.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Data\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2282,8 +2282,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Data.Models\\CarRentingSystem.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\aleks\\source\\repos\\CarRentingApp\\CarRentingSystem.Data.Models\\CarRentingSystem.Data.Models.csproj"
+            "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Data.Models\\CarRentingSystem.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\aleks\\OneDrive\\Documents\\GitHub\\CarRentingApp\\CarRentingSystem.Data.Models\\CarRentingSystem.Data.Models.csproj"
             }
           }
         }

@@ -22,3 +22,15 @@ C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6
 C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\refint\CarRentingSystem.Common.dll
 C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\CarRentingSystem.Common.pdb
 C:\Users\aleks\source\repos\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\ref\CarRentingSystem.Common.dll
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\bin\Debug\net6.0\CarRentingSystem.Common.deps.json
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\bin\Debug\net6.0\CarRentingSystem.Common.dll
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\bin\Debug\net6.0\CarRentingSystem.Common.pdb
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\CarRentingSystem.Common.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\CarRentingSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\CarRentingSystem.Common.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\CarRentingSystem.Common.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\CarRentingSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\CarRentingSystem.Common.dll
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\refint\CarRentingSystem.Common.dll
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\CarRentingSystem.Common.pdb
+C:\Users\aleks\OneDrive\Documents\GitHub\CarRentingApp\CarRentingSystem.Common\obj\Debug\net6.0\ref\CarRentingSystem.Common.dll

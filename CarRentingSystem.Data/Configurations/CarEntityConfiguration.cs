@@ -9,6 +9,8 @@ namespace CarRentingSystem.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<Car> builder)
         {
+            builder.HasOne(c => c.ProtectionPlan).WithMany(pp => pp.Cars).HasForeignKey(c => c.ProtectionPlanId).OnDelete(DeleteBehavior.Restrict);
+
             ICollection<Car> cars = CreateCars();
             builder.HasData(cars);
         }

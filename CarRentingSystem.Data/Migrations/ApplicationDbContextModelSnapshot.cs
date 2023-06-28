@@ -74,6 +74,9 @@ namespace CarRentingSystem.Web.Data.Migrations
                     b.Property<decimal>("PricePerDay")
                         .HasColumnType("decimal(18,2)");
 
+                    b.Property<int?>("ProtectionPlanId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Transmission")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -82,6 +85,8 @@ namespace CarRentingSystem.Web.Data.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ProtectionPlanId");
 
                     b.ToTable("Cars");
 
@@ -213,7 +218,12 @@ namespace CarRentingSystem.Web.Data.Migrations
                         .HasMaxLength(20)
                         .HasColumnType("nvarchar(20)");
 
+                    b.Property<int?>("ProtectionPlanId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("ProtectionPlanId");
 
                     b.ToTable("Cargos");
 
@@ -590,6 +600,26 @@ namespace CarRentingSystem.Web.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("CarRentingSystem.Data.Models.Car", b =>
+                {
+                    b.HasOne("CarRentingSystem.Data.Models.ProtectionPlan", "ProtectionPlan")
+                        .WithMany("Cars")
+                        .HasForeignKey("ProtectionPlanId")
+                        .OnDelete(DeleteBehavior.Restrict);
+
+                    b.Navigation("ProtectionPlan");
+                });
+
+            modelBuilder.Entity("CarRentingSystem.Data.Models.Cargo", b =>
+                {
+                    b.HasOne("CarRentingSystem.Data.Models.ProtectionPlan", "ProtectionPlan")
+                        .WithMany("Cargos")
+                        .HasForeignKey("ProtectionPlanId")
+                        .OnDelete(DeleteBehavior.Restrict);
+
+                    b.Navigation("ProtectionPlan");
+                });
+
             modelBuilder.Entity("CarRentingSystem.Data.Models.Extra", b =>
                 {
                     b.HasOne("CarRentingSystem.Data.Models.ProtectionPlan", null)
@@ -650,6 +680,10 @@ namespace CarRentingSystem.Web.Data.Migrations
 
             modelBuilder.Entity("CarRentingSystem.Data.Models.ProtectionPlan", b =>
                 {
+                    b.Navigation("Cargos");
+
+                    b.Navigation("Cars");
+
                     b.Navigation("Extras");
                 });
 #pragma warning restore 612, 618
